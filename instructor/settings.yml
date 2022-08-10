@@ -1,19 +1,18 @@
 # Key settings (must edit)
-project_title: Choochoo template repository
-project_repo: lucydot/ChooChoo-template
+project_title: Checklist for KD4014 (2022)
+project_repo: lucydot/KD4014-ChooChoo
 admins:
 - lucydot
-- choochoo-bot
 instructors:
 - lucydot
+- prakayastha
 students:
 - lucydot
-- choochoo-bot
-web_address: https://lucydot.github.io/ChooChoo-template
+web_address: https://lucydot.github.io/KD4014-ChooChoo
 
 # User options (may edit)
 questions: true
-votes_required: 3
+votes_required: 4
 gh-pages: true
 gh-pages_branch: gh-pages
 
