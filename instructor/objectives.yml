@@ -8,39 +8,205 @@ sections:
 - name: Running Python
 
   links:
-  - https://nu-cem.github.io/CompPhys/2021/08/02/01-Running_Python
-  questions: []
-  tutorials: []
+  - https://lucydot.github.io/python_novice/01-run-quit/index.html
+  questions: 
+  tutorials: 
   
   # Each section contains one or more objectives
   objectives:
   
-  - name: open and save a Jupyter Notebook
+  - name: Create a new Jupyter Notebook
+    links: 
+    questions: 
+    tutorials: 
+    
+  - name: Save and download a Jupyter Notebook
     links: []
     questions: []
     tutorials: []
     
-  - name: use basic Markdown in a notebook
+  - name: Create Markdown cells in a Jupyter Notebook
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Run Python code in a Jupyter Notebook
     links: []
     questions: []
     tutorials: []
 
-- name: Lists
+- name: Variables and Assignment
 
   links:
-  - https://nu-cem.github.io/CompPhys/2021/08/02/01-lists
+  - https://lucydot.github.io/python_novice/02-variables/index.html
   questions: []
   tutorials: []
   
   objectives:
   
-  - name: create a list
+  - name: Use variables to store values
     links: []
     questions: []
     tutorials: []
-  - name: add to a list
+  - name: Use `print` to display values
     links: []
     questions: []
     tutorials:
-    - https://lucydot.github.io/ChooChoo-template/tutorials/lists
+  - name: Use meaningful variable names
+    links: []
+    questions: []
+    tutorials:
+    
+- name: Data Types and Type Conversion
 
+  links:
+  - https://lucydot.github.io/python_novice/03-types-conversion/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Explain the difference between integers and floats
+    links: []
+    questions: []
+    tutorials: []
+  - name: Explain the difference between numeric values and strings
+    links: []
+    questions: []
+    tutorials:
+  - name: Convert between numbers and strings
+    links: []
+    questions: []
+    tutorials:
+    
+- name: Built-in Functions, Help and Errors
+
+  links:
+  - https://lucydot.github.io/python_novice/04-built-in/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Round a number to a specified number of decimal places
+    links: []
+    questions: []
+    tutorials: []
+  - name: Use `help()` or `?` (in Jupyter Notebooks) to access help documentation for a function
+    links: []
+    questions: []
+    tutorials:
+  - name: Descrive the difference between syntax errors and runtime errors
+    links: []
+    questions: []
+    tutorials:
+    
+- name: Lists
+
+  links:
+  - https://lucydot.github.io/python_novice/05-lists/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Create a Python list
+    links: []
+    questions: []
+    tutorials: []
+  - name: Find the length of a list
+    links: []
+    questions: []
+    tutorials:
+  - name: Fetch an item from a list using list indexing
+    links: []
+    questions: []
+    tutorials:
+  - name: Fetch multiple item from a list using list slicing
+    links: []
+    questions: []
+    tutorials:
+  - name: Replace an item in a list with a new value
+    links: []
+    questions: []
+    tutorials:
+    
+- name: For Loops
+
+  links:
+  - https://lucydot.github.io/python_novice/06-for-loops/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Identify the iterable, dummy variable and loop body in a For loop
+    links: []
+    questions: []
+    tutorials: []
+  - name: Use a For loop to repeat a basic programming task
+    links: []
+    questions: []
+    tutorials:
+  - name: Use range to iterate over a sequence of numbers
+    links: []
+    questions: []
+    tutorials:
+    
+- name: Conditionals
+
+  links:
+  - https://lucydot.github.io/python_novice/07-conditionals/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Use `if` to control whether a block of code is executed
+    links: []
+    questions: []
+    tutorials: []
+  - name: Combine a `for` loop and an `if` loop to implement a basic programming task
+    links: []
+    questions: []
+    tutorials:
+  - name: Use a combination of `if`, `elif` and `else` to implement a basic programming task
+    links: []
+    questions: []
+    tutorials:
+  - name: Test if a combination of things are true using `and` or `or`.
+    links: []
+    questions: []
+    tutorials:
+    
+- name: Writing Functions
+
+  links:
+  - https://lucydot.github.io/python_novice/08-writing-functions/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Define a simple function that returns a value
+    links: []
+    questions: []
+    tutorials: []
+  - name: Call a custom-made function
+    links: []
+    questions: []
+    tutorials:
+
+- name: Variable scope
+
+  links:
+  - https://lucydot.github.io/python_novice/09-scope/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Explain the difference between local and global variables
+    links: []
+    questions: []
+    tutorials: []
