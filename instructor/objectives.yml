@@ -9,16 +9,16 @@ sections:
 
   links:
   - https://lucydot.github.io/python_novice/01-run-quit/index.html
-  questions: 
-  tutorials: 
+  questions: []
+  tutorials: []
   
   # Each section contains one or more objectives
   objectives:
   
   - name: Create a new Jupyter Notebook
-    links: 
-    questions: 
-    tutorials: 
+    links: []
+    questions: []
+    tutorials: []
     
   - name: Save and download a Jupyter Notebook
     links: []
@@ -51,11 +51,11 @@ sections:
   - name: Use `print` to display values
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Use meaningful variable names
     links: []
     questions: []
-    tutorials:
+    tutorials: []
     
 - name: Data Types and Type Conversion
 
@@ -73,11 +73,11 @@ sections:
   - name: Explain the difference between numeric values and strings
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Convert between numbers and strings
     links: []
     questions: []
-    tutorials:
+    tutorials: []
     
 - name: Built-in Functions, Help and Errors
 
@@ -95,11 +95,11 @@ sections:
   - name: Use `help()` or `?` (in Jupyter Notebooks) to access help documentation for a function
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Descrive the difference between syntax errors and runtime errors
     links: []
     questions: []
-    tutorials:
+    tutorials: []
     
 - name: Lists
 
@@ -117,19 +117,19 @@ sections:
   - name: Find the length of a list
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Fetch an item from a list using list indexing
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Fetch multiple item from a list using list slicing
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Replace an item in a list with a new value
     links: []
     questions: []
-    tutorials:
+    tutorials: []
     
 - name: For Loops
 
@@ -147,11 +147,11 @@ sections:
   - name: Use a For loop to repeat a basic programming task
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Use range to iterate over a sequence of numbers
     links: []
     questions: []
-    tutorials:
+    tutorials: []
     
 - name: Conditionals
 
@@ -169,15 +169,15 @@ sections:
   - name: Combine a `for` loop and an `if` loop to implement a basic programming task
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Use a combination of `if`, `elif` and `else` to implement a basic programming task
     links: []
     questions: []
-    tutorials:
+    tutorials: []
   - name: Test if a combination of things are true using `and` or `or`.
     links: []
     questions: []
-    tutorials:
+    tutorials: []
     
 - name: Writing Functions
 
@@ -195,7 +195,7 @@ sections:
   - name: Call a custom-made function
     links: []
     questions: []
-    tutorials:
+    tutorials: []
 
 - name: Variable scope
 
