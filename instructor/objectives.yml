@@ -210,3 +210,189 @@ sections:
     links: []
     questions: []
     tutorials: []
+
+
+- name: Libraries
+
+  links:
+  - https://lucydot.github.io/python_novice/10-libraries/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Import a library
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Import a library using an alias (nickname)
+    links: []
+    questions: []
+    tutorials: []
+    
+- name: Storing data in Numpy arrays
+
+  links:
+  - https://lucydot.github.io/python_novice/12-numpy-intro/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Read in data from a text file
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Describe the difference between Numpy arrays and Python lists
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Write a Numpy array to a text file
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Create a one-dimensional Numpy array with zero-values
+    links: []
+    questions: []
+    tutorials: []
+     
+  - name: Create a two-dimensional Numpy array with zero-values
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Create a Numpy array with evenly spaced numbers over a given interval
+    links: []
+    questions: []
+    tutorials: []
+  
+  - name: Combine the enumerate function with a `for` loop to populate a Numpy array
+    links: []
+    questions: []
+    tutorials: []
+    
+- name: Retrieving data from Numpy arrays
+
+  links:
+  - https://lucydot.github.io/python_novice/13-numpy-selecting/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: Use array indexing to select a single element from a 2D array
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Use array slicing to select a column of a 2D array
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Use array slicing to select a row of a 2D array
+    links: []
+    questions: []
+    tutorials: []
+    
+- name: Visualizing data with Matplotlib
+
+  links:
+  - https://lucydot.github.io/python_novice/14-visualising-data/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+    
+  - name: Generate a basic line plot
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Generate a basic scatter plot
+    links: []
+    questions: []
+    tutorials: []
+     
+  - name: Label the plot with an x-axis label, y-axis label and title
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Create a plot legend
+    links: []
+    questions: []
+    tutorials: []
+  
+  - name: Use a figure and subplots to group similar plots
+    links: []
+    questions: []
+    tutorials: []
+  
+- name: Analysing data using Numpy
+
+  links:
+  - https://lucydot.github.io/python_novice/15-numpy-analysis/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+    
+  - name: Use the least-squares method to fit a polynomial function to data
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Plot the polynomial fit alongside the raw data for comparison
+    links: []
+    questions: []
+    tutorials: []
+     
+  - name: Use Numpy array operations to perform mathematical operations across an array
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Use Numpy functions to calculate the mean, max and min across one or more array axes.
+    links: []
+    questions: []
+    tutorials: []
+  
+  - name: Plot the uncertainty associated with a measurement using an errorbar
+    links: []
+    questions: []
+    tutorials: []
+  
+- name: Code Quality
+
+  links:
+  - https://lucydot.github.io/python_novice/16-style/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+    
+  - name: Use assertions to check for internal errors
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Write docstrings to provide help messages
+    links: []
+    questions: []
+    tutorials: []
+     
+  - name: Print package version numbers to increase code reproducibility
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Re-factor code to reduce code repetition and remove redundant code
+    links: []
+    questions: []
+    tutorials: []
+  
