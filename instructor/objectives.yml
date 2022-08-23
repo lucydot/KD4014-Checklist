@@ -34,6 +34,11 @@ sections:
     links: []
     questions: []
     tutorials: []
+    
+  - name: Create in-line code comments using `#`
+    links: []
+    questions: []
+    tutorials: []
 
 - name: Variables and Assignment
 
@@ -265,7 +270,17 @@ sections:
     questions: []
     tutorials: []
     
+  - name: Create a one-dimensional Numpy array with pre-defined values
+    links: []
+    questions: []
+    tutorials: [] 
+    
   - name: Create a Numpy array with evenly spaced numbers over a given interval
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: Create a Numpy array with evenly spaced numbers over a given interval in logspace
     links: []
     questions: []
     tutorials: []
@@ -332,6 +347,11 @@ sections:
     links: []
     questions: []
     tutorials: []
+    
+  - name: Save a plot as a `.png` file
+    links: []
+    questions: []
+    tutorials: []
   
 - name: Analysing data using Numpy
 
@@ -357,7 +377,7 @@ sections:
     questions: []
     tutorials: []
     
-  - name: Use Numpy functions to calculate the mean, max and min across one or more array axes.
+  - name: Use Numpy functions e.g. `mean`, `max`, `min` or `round` across one or more array axes.
     links: []
     questions: []
     tutorials: []
