@@ -83,6 +83,7 @@ jobs:
       startsWith(github.event.comment.body,'choochoo ')
     runs-on: ubuntu-latest
     env: 
+      GITHUB_TOKEN: ${{ secrets.BOT_ACCESS_TOKEN }}
       GH_TOKEN: ${{ secrets.BOT_ACCESS_TOKEN }}
       ISSUE_NUMBER: ${{ github.event.issue.number }}
       GITHUB_REPOSITORY: ${{ github.repository }}
@@ -111,6 +112,7 @@ jobs:
     runs-on: ubuntu-latest
     env: 
       GH_TOKEN: ${{ secrets.BOT_ACCESS_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.BOT_ACCESS_TOKEN }}
       ISSUE_NUMBER: ${{ github.event.issue.number }}
       GITHUB_REPOSITORY: ${{ github.repository }}
       GITHUB_ACTOR: ${{ github.actor }}
